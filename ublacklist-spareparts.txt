@@ -43,3 +43,17 @@
 *://*.mister-auto.fi/*
 *://*.auton-varaosat24.fi/*
 *://*.fruugo.fi/*
+*://*.caremytours.com/*
+*://*.lazada.com.ph/*
+*://*.amazon.com/*
+*://*.amazon.de/*
+*://*.borderline-ptbs-dissoziation.de/*
+*://*.cnlovesn.us/*
+*://*.alvadi.lt/*
+*://*.bibel-biografien.de/*
+*://*.avanti-dez.de/*
+*://*.incarmusic.co.uk/*
+*://*.brossautoparts.com/*
+*://*.breakeryard.com/*
+*://*.khemz-ipec.org/*
+*://*.b-parts.com/*
